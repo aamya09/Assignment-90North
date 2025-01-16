@@ -5,8 +5,11 @@ Welcome to Tasty Treats, a vibrant food website designed to showcase delicious d
 # ** 🛠️ Technologies Used **
 
 HTML5: For structuring the website content.
+
 CSS3: For styling the layout, animations, and responsiveness.
+
 Font Awesome: For adding visually appealing icons (e.g., heart, party popper).
+
 JavaScript: For interactivity like toggling the left menu and adjusting page width dynamically.
 
 # **🚀 How to Run the Code **
