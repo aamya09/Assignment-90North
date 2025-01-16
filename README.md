@@ -14,13 +14,19 @@ JavaScript: For interactivity like toggling the left menu and adjusting page wid
 Follow these steps to view the website locally:
 
 1- Clone the Repository:
+
 git clone https://github.com/your-username/tasty-treats.git
+
 cd tasty-treats
 
 2- Ensure You Have the Required Files:
+
 index.html, styles.css, and script.js should be in the root folder.
+
 Place your logo and any other images in an images folder.
 
 3- Open the Website:
+
 Locate the index.html file in the project directory.
+
 Right-click and select Open With > Browser to view it in your default web browser.
