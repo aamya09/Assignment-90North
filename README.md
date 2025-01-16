@@ -1,4 +1,4 @@
-#🍴 Tasty Treats - Food Website
+# **🍴 Tasty Treats - Food Website **
 
 Welcome to Tasty Treats, a vibrant food website designed to showcase delicious dishes, special offers, and delightful experiences. This responsive website is a perfect platform for food lovers and restaurant owners to highlight their offerings. 
 
